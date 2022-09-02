@@ -37,3 +37,11 @@ yapılacak olan bellidir. Bunu sizin yerinize frameworkler yapıyor, sizde
 tasarruf sağlar ve iş yükünüzü hafifletir.
 
 Framework geliştiricilerin kullandığı daha önceden hazırlanmış kütüphanelerin bulunduğu ve bu mevcut kütüphanelere sürekli olarak yenilerinin eklendiği yapıdır. Frameworklerde form kontrolleri, veri tabanı işlemleri, kullanıcı işlemleri ve hesap kontrolleri gibi çeşitli kütüphaneler bulunmaktadır.
+
+## What Is a JavaScript Framework?
+
+**Frameworks provide developers with the basic foundation necessary for [building JavaScript applications](https://trio.dev/blog/examples-javascript).** This saves developers the effort of starting from scratch by utilizing a functional base to get things rolling.
+
+In JavaScript’s case, this base includes a collection of code libraries. The libraries compile code that elicits specific functionality for the specific type of app you may be working on. In 
+essence, the framework will define the structure of the entire 
+application.
